@@ -1,4 +1,4 @@
-# NLPprepKit
+text_preprocessor
 "All-in-one text preprocessing toolkit for NLP enthusiasts"
 
 # Text Preprocessor
